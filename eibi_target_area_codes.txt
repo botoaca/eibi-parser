@@ -1,0 +1,56 @@
+ATA Antarctica
+Af Africa
+Am America(s)
+As Asia
+CAf Central Africa
+CAm Central America
+CAs Central Asia
+CEu Central Europe
+Car Caribbean, Gulf of Mexico, Florida Waters
+Cau Caucasus
+CIS Commonwealth of Independent States (Former Soviet Union)
+CNA Central North America
+EAf Eastern Africa
+EAm Eastern America
+EAs Eastern Asia
+EEU Eastern Europe
+ENA Eastern North America
+ENE East-northeast
+ESE East-southeast
+Eu Europe
+FE Far East
+Glo Global
+In Indian subcontinent
+LAm Latin America
+ME Middle East
+NAf Northern Africa
+NAm Northern America
+NAs Northern Asia
+NEu Northern Europe
+NAO North Atlantic Ocean
+NE Northeast
+NNE North-northeast
+NNW North-northwest
+NW Northwest
+Oc Oceania
+SAf Southern Africa
+SAm Southern America
+SAs Southern Asia
+SEu Southern Europe
+SAO South Atlantic Ocean
+SE Southeast
+SEA South East Asia
+SEE South East Europe
+Sib Siberia
+SSE South-southeast
+SSW South-southwest
+SW Southwest
+Tib Tibet
+WAf Western Africa
+WAm Western America
+WAs Western Asia
+WEu Western Europe
+WIO Western Indian Ocean
+WNA Western North America
+WNW West-northwest
+WSW West-southwest
